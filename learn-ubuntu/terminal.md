@@ -1,0 +1,15 @@
+- use tab
+- use f11 
+- use shortcuts
+    - for bash
+        - ctrl+w (remove a word)
+        - ctrl+u (remove a line)
+        - ctrl+y (copy from ctrl+w or ctrl+u clip)
+        <hr>
+    - for terminal
+        - ctrl+alt+t (create a new terminal)
+        - ctrl+shif+n (create a window)
+        - ctrl+shif+q (close a window)
+        - ctrl+shift+t (create a new tab)
+        - alt+1,alt+2,alt+3 (switch tab)
+        - ctrl+shift+w (close a tab)
