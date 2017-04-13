@@ -8,3 +8,5 @@
     create a pull request
 
     4.origin proejct owner will see your pull request,and decide to pull or not.
+
+    5.also can use command line to merge pull request
